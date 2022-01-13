@@ -1,8 +1,6 @@
 <template>
   <div>
-    <Header />
     <Carousel />
-    <Footer />
   </div>
 </template>
 
@@ -14,6 +12,5 @@ export default Vue.extend({
 })
 </script>
 
-<style lang="scss">
-@import '../styles/_custom.scss'
+<style>
 </style>
