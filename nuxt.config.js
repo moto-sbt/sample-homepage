@@ -9,7 +9,7 @@ export default {
   head: {
     title: 'vue-sample',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ja'
     },
     meta: [
       { charset: 'utf-8' },
@@ -52,9 +52,4 @@ export default {
   router: {
     base: '/motonori/' // ここをサブディレクトリのurl名にする
    },
-    head: {
-      base: {
-        href: 'router.base'
-      },
-    }
 }
